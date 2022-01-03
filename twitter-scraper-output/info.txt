@@ -1,0 +1,1 @@
+Message text files replace the conditions.xls in ref-data folder for latest release.
